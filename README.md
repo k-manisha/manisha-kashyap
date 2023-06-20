@@ -1,4 +1,3 @@
-README.md
 Hi there 👋
 I'm a Software Engineering working in Pune having around 4 years of experience in the software industry.
 
