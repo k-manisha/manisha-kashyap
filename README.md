@@ -1,7 +1,8 @@
 Hi there 👋
 
 
-I'm a Software Engineering working in Pune having around 4 years of experience in the software industry.
+I'm a Software Engineering having around 5 years of experience in the software industry.
+Currently working at SAP Labs Banaglore.
 
 My focus area has mostly been Frontend development with React, Vue.js, Angular, TypeScript, JavaScript, SCSS, but I've also worked in back-end development with Springboot.
 
