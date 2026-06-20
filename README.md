@@ -15,7 +15,7 @@ Currently at SAP Labs, I worked on micro-frontend systems using **Module Federat
 ## Tech I work with
 
 **Frontend**
-React · TypeScript · Vue.js · Angular · Next.js · Zustand · React Query · Vitest · React Testing Library
+React · TypeScript · Zustand · React Query · Vitest · React Testing Library
 
 **Architecture**
 Micro-Frontends (Module Federation) · Component Libraries · REST API integration
@@ -23,8 +23,11 @@ Micro-Frontends (Module Federation) · Component Libraries · REST API integrati
 **Tooling**
 ESLint · Webpack · Git · Claude Code 
 
+** Also have prior experience in **:
+Vue.js · Angular · Next.js
+
 **Learning now**
-Spring Boot · Docker
+Spring Boot 
 
 ---
 
@@ -47,8 +50,7 @@ Fullstack app — React + TypeScript frontend, Spring Boot REST API, PostgreSQL,
 
 ## Outside the job
 
-- Ramping up on backend and AI engineering to move from senior frontend → senior fullstack
-- Practicing DSA (LeetCode — Arrays, Trees, Graphs, DP) weekly
+- Ramping up on backend and AI engineering to transition from frontend → senior frontend/ fullstack
 - Using Claude Code + MCP as an active part of my dev workflow
 
 ---
